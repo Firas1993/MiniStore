@@ -4,8 +4,8 @@ import Panier from "../components/Panier";
 export default class Navbar extends Component {
   render() {
     return (
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <Link to="/" class="navbar-brand">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <Link to="/" className="navbar-brand">
           Mini Store
         </Link>
 

@@ -2,7 +2,7 @@ import React from "react";
 import Filter from "./Filter";
 export default function SideBare() {
   return (
-    <div>
+    <div className="side-bare">
       <Filter />
     </div>
   );

@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./App.css";
 import Categories from "./pages/Categories";
 import Panier from "./pages/Panier";
 import Prod from "./pages/Prod";
