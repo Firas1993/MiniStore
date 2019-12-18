@@ -1,0 +1,8 @@
+{
+    "editor.snippetSuggestions": "top",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveTimeout": 2000
+}
